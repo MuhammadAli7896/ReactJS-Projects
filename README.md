@@ -7,10 +7,10 @@ In this project I have created a custom hook named usePrevious. In this program 
 ## Dark Theme Project
 In this project I created a Dark-Light Theme switcher which uses a custom hook and a context to switch between the interface
 
-## Fetch Data
+## Fetch Data Project
 In this project I used useEffect hook to fetch API and invoked the data in the page
 
-## Registration Form
+## Registration Form Project
 In this project I created a registration form with such significant features:
 1. It checks that all required fields are filled than it will allow to submit.
 2. If the password is less than 8 characters it prints a message below its input field.
