@@ -17,3 +17,6 @@ In this project I created a registration form with such significant features:
 3. If the email is not valid it will not submit.
 4. After submission, all fields will become empty.
 
+## Mouse Position Project
+In this project I have implemented the logic for using render props technique to mutate and render its elements, in this project the screen will show your mouse position with repect to the coordinates of axes
+I have passed render as a prop in MousePosition component to display and render the position of x-coordinate and y-coordinate of mouse position on your screen
